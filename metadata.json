@@ -1,0 +1,6 @@
+{
+  "name": "FrameMatch - 视频帧相似度与镜头场景判定系统",
+  "description": "专业视频关键帧图像相似度分析工具，针对连续镜头与相同场景进行精准多维算法识别，具备智能字幕区域屏蔽与特征差异热力图。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
